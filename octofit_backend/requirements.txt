@@ -1,0 +1,1 @@
+Django==4.2.0\nDjangorestframework==3.14.0\npython-decouple==3.8\npython-dateutil==2.8.2\npytz==2023.3\nrequests==2.31.0\ngunicorn==20.1.0\npymongo==4.4.0\ndnspython==2.3.0\ncorsheaders==4.0.0
